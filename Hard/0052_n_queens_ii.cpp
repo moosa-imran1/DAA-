@@ -1,4 +1,4 @@
-class Solution {
+Dclass Solution {
 public:
     int totalNQueens(int n) {
         int count = 0;
